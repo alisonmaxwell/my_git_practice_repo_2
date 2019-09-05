@@ -1,5 +1,8 @@
 # Python Sorting Exercise
 
+# these are Alison's practice changes. 
+# can we merge them?
+
 # Metadata about your lovely bootcamp TAs.
 tas_dict = {"Laura Gunsalus": {"year": 2, "lab": "Keiser", "program": "iPQB"},
             "Stephanie Wankowicz": {"year": 2, "lab": "Fraser", "program": "iPQB"},
