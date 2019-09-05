@@ -1,5 +1,3 @@
-are these changes mergeable?
-
 # Python Sorting Exercise
 
 # these are Alison's practice changes. 
@@ -23,9 +21,9 @@ def sort_by_name(d, decreasing=False):
         print(name)
 
 
-def _year_from_dict(x):
-    """From a tuple containing a TA's name and info, get the year."""
-    name, info = x
+def _year_from_dict(x,y,z):
+    """From a tuple containing a TA's name and info, but not the year."""
+             name, info = x
     return info["year"]
 
 
